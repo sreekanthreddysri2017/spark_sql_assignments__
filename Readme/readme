@@ -57,3 +57,6 @@ Apply Schema while creating a Dataframe.
 Retrieve Employees who earns the highest salary.
 
 Select the highest, lowest, average, and total salary for each department group.
+
+SQL Assignment using SSMS
+SSMS_SQL_Assignments directory contains SQL Assignments done using SSMS setup.
